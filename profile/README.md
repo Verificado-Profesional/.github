@@ -7,7 +7,7 @@ Trabajo desarrollado durante el 2do cuatrimestre del 2023 y el 1er cuatrimestre 
 El objetivo de este trabajo es realizar un algoritmo de detección de noticias falsas en español utilizando inteligencia artificial. La metodología de trabajo u
 
 
-### Integrantes - Grupo 4
+### Integrantes
 
 Nombre |   Email
 ------ |  -------------
