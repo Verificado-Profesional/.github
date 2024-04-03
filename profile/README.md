@@ -1,12 +1,21 @@
-## Hi there 👋
+# Verificado Profesional
 
-<!--
+## Trabajo Profesional de Grado 
+### Facultad de Ingeniería - Universidad de Buenos Aires
 
-**Here are some ideas to get you started:**
+Trabajo desarrollado durante el 2do cuatrimestre del 2023 y el 1er cuatrimestre del 2024. 
+El objetivo de este trabajo es realizar un algoritmo de detección de noticias falsas en español utilizando inteligencia artificial. La metodología de trabajo u
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Integrantes - Grupo 4
+
+Nombre |   Email
+------ |  -------------
+[FUENTES, Azul](https://github.com/azu26) | afuentes@fi.uba.ar
+[PARDO, Lucía](https://github.com/luciaPardo) | lpardo@fi.uba.ar
+[REINAUDO, Dante](https://github.com/DanteReinaudo) | dreinaudo@fi.uba.ar
+[ISKANDARANI, Roberto](https://github.com/Robert-Iskandarani) | riskandarani@fi.uba.ar
+
+## Documentación
+
+* [Ante Proyecto](doc/anteproyecto.pdf)
